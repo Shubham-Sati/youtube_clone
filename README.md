@@ -2,7 +2,7 @@
 
 
 
-This is the YouTube clone Full Stack web App made by react. Please goto master branch for the code.
+This is the YouTube clone Full Stack web App made with react. Please goto master branch for the code.
 
 # Features that have been implemented
   ## FrontEnd
